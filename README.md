@@ -12,4 +12,4 @@ I have also used Homebrew package manager.<br>
 Performance is not fast.<br>
 
 ### Nonnon Paint x64
-Updated : 2022/05/30
+Updated : 2022/05/30 #3
